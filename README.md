@@ -1,4 +1,3 @@
-![Dashboard](https://github.com/Vijju12345/Advance_Sales_Dashboard/assets/91243253/b0452663-7e9d-4eac-895c-0273eb32c69c)# Advance_Sales_Dashboard
 To contribute to the success of a Business by utilizing Data Analysis Techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 #Steps to use or download this file, click on the PowerBi File uploaded above download the file and open this file in Microsoft Power BI Desktop Application only.
