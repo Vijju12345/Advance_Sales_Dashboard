@@ -5,7 +5,10 @@ To contribute to the success of a Business by utilizing Data Analysis Techniques
 #Use the filters to view the different stats and the customized visualization of valuable insights and sales forecasting.
 
 #DASHBOARD.png
-![Dashboard](https://github.com/Vijju12345/Advance_Sales_Dashboard/assets/91243253/e1829fa5-9fda-46e3-a7ae-7a1266a2dc18)
+
+![Dashboard](https://github.com/Vijju12345/Advance_Sales_Dashboard/assets/91243253/a040d52a-4397-41d8-af44-c55b318ae1ad)
+
 
 #FORECASTING.png
-![Forecast](https://github.com/Vijju12345/Advance_Sales_Dashboard/assets/91243253/daed1c89-d016-4946-916f-7311adb8fdfd)
+
+![Forecast](https://github.com/Vijju12345/Advance_Sales_Dashboard/assets/91243253/efb85811-8a39-4cc1-a62b-64ad1a30eadc)
